@@ -1,6 +1,6 @@
 # aurora-forecast
 Notes: All of data fetch from https://www.swpc.noaa.gov/products/aurora-30-minute-forecast.
-The program works with chatGPT.
+The code works with chatGPT.
 
 Using Python to draw aurora forecast data.
 
