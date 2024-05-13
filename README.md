@@ -1,4 +1,7 @@
 # aurora-forecast
+Notes: All of data fetch from https://www.swpc.noaa.gov/products/aurora-30-minute-forecast.
+The program works with chatGPT.
+
 Using Python to draw aurora forecast data.
 
 step 1: use aurora_forecast_download.py to download all of aurora data from: "https://services.swpc.noaa.gov/images/animations/ovation/north/" or "https://services.swpc.noaa.gov/images/animations/ovation/south/"  
