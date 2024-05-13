@@ -12,3 +12,4 @@ step 2: Utilize 'aurora_forecast_player_repeat.py' to play all the JPG files in 
 
 https://github.com/bigheadG/aurora-forecast/assets/2010446/06d83fab-ac7c-4efb-ae99-ca47fd14e6b6
 
+Aurora information source: NOAA
