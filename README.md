@@ -12,4 +12,23 @@ step 2: Utilize 'aurora_forecast_player_repeat.py' to play all the JPG files in 
 
 https://github.com/bigheadG/aurora-forecast/assets/2010446/06d83fab-ac7c-4efb-ae99-ca47fd14e6b6
 
-Aurora information source: NOAA
+======================================================================================================
+
+
+          
+
+# Solar wind: URL: https://services.swpc.noaa.gov/images/animations/enlil/
+## replace URL and Download file: run aurora_forecast_download.py 
+      For solar wind, you only need to replace the 
+      url = "https://services.swpc.noaa.gov/images/animations/ovation/north/" and 
+      download_files = 'downloaded_files' in aurora_forcast_download.py with 
+      url = "https://services.swpc.noaa.gov/images/animations/enlil/" and 
+      download_files = 'downloaded_enlil_files' .
+      
+## playback: run aurora_forcast_player_repeat.py 
+ Run aurora_forcast_player_repeat.py (replaced: directory = "./downloaded_enlil_files/") you can see the beautiful solar wind predict map as following video.
+ 
+
+https://github.com/bigheadG/aurora-forecast/assets/2010446/9aab4966-0802-4130-81f1-92c439d1fc59
+
+Aurora/Solar Wind information source: NOAA
