@@ -25,7 +25,7 @@ https://github.com/bigheadG/aurora-forecast/assets/2010446/06d83fab-ac7c-4efb-ae
       url = "https://services.swpc.noaa.gov/images/animations/enlil/" and 
       download_files = 'downloaded_enlil_files' .
       
-## playback: run aurora_forcast_player_repeat.py 
+## playback: run aurora_forecast_player_repeat.py 
  Run aurora_forcast_player_repeat.py (replaced: directory = "./downloaded_enlil_files/") you can see the beautiful solar wind predict map as following video.
  
 
