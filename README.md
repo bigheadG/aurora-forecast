@@ -1,3 +1,4 @@
+
 # aurora-forecast
 Notes: All of data fetch from https://www.swpc.noaa.gov/products/aurora-30-minute-forecast.
 The code works with chatGPT.
@@ -40,4 +41,9 @@ https://github.com/bigheadG/aurora-forecast/assets/2010446/9aab4966-0802-4130-81
                     download_files = 'downloaded_enlil_files' .
 
 
+https://github.com/bigheadG/aurora-forecast/assets/2010446/b49e1718-0004-4a99-84b2-d8f677771c7a
+
+
 Aurora/Solar Wind information source: NOAA
+
+
