@@ -31,4 +31,13 @@ https://github.com/bigheadG/aurora-forecast/assets/2010446/06d83fab-ac7c-4efb-ae
 
 https://github.com/bigheadG/aurora-forecast/assets/2010446/9aab4966-0802-4130-81f1-92c439d1fc59
 
+
+## Solar Wind Forecast Playback: solarWind_forecast.py
+
+          Need to use aurora_forecast_download.py download solar wind data first.
+               please modified:
+                    url = "https://services.swpc.noaa.gov/images/animations/enlil/"
+                    download_files = 'downloaded_enlil_files' .
+
+
 Aurora/Solar Wind information source: NOAA
